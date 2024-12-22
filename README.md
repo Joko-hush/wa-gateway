@@ -1,3 +1,5 @@
+Sistem yang digunakan:
+
     - Node
     - Express
     - Venom bot (Whatsapp engine)
@@ -54,3 +56,11 @@ Jika aplikasi ini bermanfaat silahkan beri donasi melalui link ini.
 https://saweria.co/budi665 atau teer.id/joko_budiyanto
 
 Agar lebih bersemangat lagi untuk membuat yang selanjutnya.
+
+Saya ucapkan juga terima kasih kepada
+- Ryan Dahl dan juga Tim yang terus mengembangkan Nodejs
+- Tim pengembang Express Js
+- Tim pengembang Sql lite
+- Tim pengembang Venom Bot
+- Terutama kepada Whatsapp. Silahkan Gunakan WhatsApp API resmi untuk service yang lebih baik.
+- Dan Deepseek Ai yang membantu saya.
