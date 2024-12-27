@@ -53,7 +53,7 @@ Perhatian:  Setiap pesan akan dikirim dengan jeda 10 detik dari 1 pesan ke pesan
             Untuk penyesuaian jeda waktu pengiriman bisa di ubah di baris 108 pada file index.js.
 
 Jika aplikasi ini bermanfaat silahkan beri donasi melalui link ini. 
-https://saweria.co/budi665 atau teer.id/joko_budiyanto
+https://saweria.co/budi665 atau https://teer.id/joko_budiyanto
 
 Agar lebih bersemangat lagi untuk membuat yang selanjutnya.
 
